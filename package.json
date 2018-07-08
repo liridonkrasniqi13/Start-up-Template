@@ -1,0 +1,24 @@
+{
+  "name": "ekorqa",
+  "version": "1.0.0",
+  "description": "This web is for www.ekorqa.de",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liridonkrasniqi13/Start-up-Template.git"
+  },
+  "author": "Liridon Krasniqi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liridonkrasniqi13/Start-up-Template/issues"
+  },
+  "homepage": "https://github.com/liridonkrasniqi13/Start-up-Template#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
